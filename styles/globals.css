@@ -1,4 +1,4 @@
-html,
+/* html,
 body {
   padding: 0;
   margin: 0;
@@ -13,4 +13,17 @@ a {
 
 * {
   box-sizing: border-box;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap');
+
+body {
+  background: #dddada;
+  color: #434;
+  font-family: "Nunito";
+
 }
+a {
+  color: #434;
+}
+
+
